@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T10:44:28.451Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="THzQ4TZnwiEFdBQmuBwW" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T10:47:27.393Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="MBBNU_msrish9EwYyrco" version="14.7.7" type="github">
   <diagram id="u33sYG8uZb48lFGURAP2" name="Page-1">
-    <mxGraphModel dx="334" dy="302" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="682" dy="618" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -58,14 +58,43 @@
             <mxPoint x="3" y="3" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4UlyDdWltuF2fgXEcXUZ-20" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" edge="1" parent="1" source="4UlyDdWltuF2fgXEcXUZ-21" target="4UlyDdWltuF2fgXEcXUZ-22">
+        <mxCell id="4UlyDdWltuF2fgXEcXUZ-20" value="ใช่" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" edge="1" parent="1" source="4UlyDdWltuF2fgXEcXUZ-21" target="4UlyDdWltuF2fgXEcXUZ-22">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="4UlyDdWltuF2fgXEcXUZ-21" value="ได้ 3-5 คะแนนหรือไม่?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;verticalAlign=middle;rotation=0;" vertex="1" parent="1">
           <mxGeometry x="231.25" y="440.02" width="147.5" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="4UlyDdWltuF2fgXEcXUZ-22" value="ได้น้ำอัดลม" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;verticalAlign=middle;" vertex="1" parent="1">
+        <mxCell id="4UlyDdWltuF2fgXEcXUZ-22" value="ได้พวงกุญแจ" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;verticalAlign=middle;" vertex="1" parent="1">
           <mxGeometry x="440" y="450.02" width="120" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4UlyDdWltuF2fgXEcXUZ-29" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" edge="1" parent="1" source="4UlyDdWltuF2fgXEcXUZ-16" target="4UlyDdWltuF2fgXEcXUZ-17">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="383" y="359.9999999999999" as="sourcePoint" />
+            <mxPoint x="444.25" y="359.9999999999999" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="410" y="380" />
+              <mxPoint x="410" y="380" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UlyDdWltuF2fgXEcXUZ-30" value="ใช่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Niramit;" vertex="1" connectable="0" parent="4UlyDdWltuF2fgXEcXUZ-29">
+          <mxGeometry x="-0.3438" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UlyDdWltuF2fgXEcXUZ-31" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="4UlyDdWltuF2fgXEcXUZ-21" target="4UlyDdWltuF2fgXEcXUZ-33">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="300" y="520" as="sourcePoint" />
+            <mxPoint x="480" y="570" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UlyDdWltuF2fgXEcXUZ-32" value="ไม่" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];fontFamily=Niramit;" vertex="1" connectable="0" parent="4UlyDdWltuF2fgXEcXUZ-31">
+          <mxGeometry x="-0.0905" y="-1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4UlyDdWltuF2fgXEcXUZ-33" value="ได้ลูกอม 2 เม็ด" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;verticalAlign=middle;" vertex="1" parent="1">
+          <mxGeometry x="245" y="550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
