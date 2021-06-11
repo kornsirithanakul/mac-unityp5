@@ -1,11 +1,11 @@
-<mxfile host="app.diagrams.net" modified="2021-06-11T09:18:46.291Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="MH2TD-DyeczM_NyhSf4y" version="14.7.7" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-11T09:18:57.535Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="qMjcE9Jls9zNpw5u98mU" version="14.7.7" type="github">
   <diagram id="OeV2j8LkDsvs5Ir4mlim" name="Page-1">
-    <mxGraphModel dx="945" dy="855" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1535" dy="1390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="icL7kLq2EV7P6W4beZzp-26" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="330" y="70" width="520" height="755" as="geometry" />
+          <mxGeometry x="160" y="130" width="520" height="755" as="geometry" />
         </mxCell>
         <mxCell id="iq7FosxiuBJM6Lgs-5zo-7" value="ขวดล้มหมดหรือไม่?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;fontSize=12;" parent="icL7kLq2EV7P6W4beZzp-26" vertex="1">
           <mxGeometry y="360" width="142.5" height="100" as="geometry" />
