@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T14:14:02.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="bfQEwKcXxVvOEVflw4bR" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T14:16:23.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="ecjkQSJ7Prgkat6uBzwK" version="14.7.10" type="github">
   <diagram id="_8zVBFja__75I3Q5MEJ1" name="Page-1">
-    <mxGraphModel dx="159" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="183" dy="166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -174,14 +174,23 @@
         <mxCell id="w-fKDghc3GFNxupKGMqX-50" value="จบ" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
           <mxGeometry x="537" y="1170" width="80" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BGIpg-9zXuHavuQ2vj5R-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w-fKDghc3GFNxupKGMqX-31" target="BGIpg-9zXuHavuQ2vj5R-3">
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-fKDghc3GFNxupKGMqX-31" target="BGIpg-9zXuHavuQ2vj5R-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1040" y="680" as="sourcePoint" />
-            <mxPoint x="1050" y="680" as="targetPoint" />
+            <mxPoint x="1050.0000000000002" y="630" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="BGIpg-9zXuHavuQ2vj5R-3" value="รอ 3 วินาที" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
-          <mxGeometry x="990" y="680" width="120" height="50" as="geometry" />
+          <mxGeometry x="990" y="760" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-28" value="เปิดเสียงเพลง Celebration.mp3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
+          <mxGeometry x="990" y="670" width="120" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-29" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BGIpg-9zXuHavuQ2vj5R-28" target="BGIpg-9zXuHavuQ2vj5R-3">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="770" as="sourcePoint" />
+            <mxPoint x="1060" y="720" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
