@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T14:16:23.446Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="ecjkQSJ7Prgkat6uBzwK" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T14:19:15.057Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="AXxLiPe5OvOUaXHGfnrU" version="14.7.10" type="github">
   <diagram id="_8zVBFja__75I3Q5MEJ1" name="Page-1">
-    <mxGraphModel dx="183" dy="166" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="261" dy="237" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -93,14 +93,14 @@
         <mxCell id="w-fKDghc3GFNxupKGMqX-31" value="เพิ่มพลังชีวิต +50" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
           <mxGeometry x="990" y="580" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-fKDghc3GFNxupKGMqX-33" value="" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" parent="1" source="w-fKDghc3GFNxupKGMqX-29" edge="1">
+        <mxCell id="w-fKDghc3GFNxupKGMqX-33" value="" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.506;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w-fKDghc3GFNxupKGMqX-29" edge="1" target="w-fKDghc3GFNxupKGMqX-34">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="564" y="960" as="sourcePoint" />
             <mxPoint x="577" y="910" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-34" value="ใช้กระสุนเกิน 13 นัดไหม?" style="rhombus;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
-          <mxGeometry x="501" y="910" width="152" height="80" as="geometry" />
+          <mxGeometry x="501" y="940" width="152" height="80" as="geometry" />
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-35" value="ไม่เกิน" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w-fKDghc3GFNxupKGMqX-34" target="w-fKDghc3GFNxupKGMqX-45" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -120,14 +120,14 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-38" value="เริ่มเกมใหม่" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
-          <mxGeometry x="264" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="264" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-41" value="" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.2;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w-fKDghc3GFNxupKGMqX-38" target="w-fKDghc3GFNxupKGMqX-3" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="400" y="760" as="sourcePoint" />
             <mxPoint x="500" y="300" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="200" y="950" />
+              <mxPoint x="200" y="980" />
               <mxPoint x="200" y="260" />
             </Array>
           </mxGeometry>
@@ -142,26 +142,26 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-44" value="เพิ่มพลังชีวิต +100" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
-          <mxGeometry x="1000" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="1000" y="950" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-45" value="เพิ่มพลังชีวิต" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
-          <mxGeometry x="770" y="920" width="120" height="60" as="geometry" />
+          <mxGeometry x="770" y="950" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-fKDghc3GFNxupKGMqX-46" value="" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=1;exitY=0.5;exitDx=0;exitDy=0;" parent="1" source="w-fKDghc3GFNxupKGMqX-45" edge="1">
+        <mxCell id="w-fKDghc3GFNxupKGMqX-46" value="" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;" parent="1" source="w-fKDghc3GFNxupKGMqX-45" edge="1" target="w-fKDghc3GFNxupKGMqX-44">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="940" y="1000" as="sourcePoint" />
             <mxPoint x="1000" y="950" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-47" value="ไปด่านถัดไป..." style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
-          <mxGeometry x="518" y="1040" width="120" height="60" as="geometry" />
+          <mxGeometry x="518" y="1070" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-48" value="" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.583;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="w-fKDghc3GFNxupKGMqX-45" target="w-fKDghc3GFNxupKGMqX-47" edge="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="680" y="1070" as="sourcePoint" />
             <mxPoint x="650" y="1070" as="targetPoint" />
             <Array as="points">
-              <mxPoint x="840" y="1070" />
+              <mxPoint x="840" y="1100" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -172,7 +172,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="w-fKDghc3GFNxupKGMqX-50" value="จบ" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" parent="1" vertex="1">
-          <mxGeometry x="537" y="1170" width="80" height="50" as="geometry" />
+          <mxGeometry x="538" y="1210" width="80" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGIpg-9zXuHavuQ2vj5R-2" value="" style="endArrow=classic;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-fKDghc3GFNxupKGMqX-31" target="BGIpg-9zXuHavuQ2vj5R-28">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
@@ -183,13 +183,28 @@
         <mxCell id="BGIpg-9zXuHavuQ2vj5R-3" value="รอ 3 วินาที" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
           <mxGeometry x="990" y="760" width="120" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="BGIpg-9zXuHavuQ2vj5R-28" value="เปิดเสียงเพลง Celebration.mp3" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-28" value="เปิดเสียงเพลง&lt;br&gt;“Congratulations”" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
           <mxGeometry x="990" y="670" width="120" height="50" as="geometry" />
         </mxCell>
         <mxCell id="BGIpg-9zXuHavuQ2vj5R-29" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="BGIpg-9zXuHavuQ2vj5R-28" target="BGIpg-9zXuHavuQ2vj5R-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="1010" y="770" as="sourcePoint" />
             <mxPoint x="1060" y="720" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-30" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="BGIpg-9zXuHavuQ2vj5R-3" target="BGIpg-9zXuHavuQ2vj5R-32">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1010" y="900" as="sourcePoint" />
+            <mxPoint x="1050" y="850" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-32" value="เคลียร์หน้าจอ" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.display;whiteSpace=wrap;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
+          <mxGeometry x="987.5" y="860" width="125" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-35" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="w-fKDghc3GFNxupKGMqX-44">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="1060" y="1100" as="sourcePoint" />
+            <mxPoint x="1060" y="1050" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
