@@ -1,16 +1,34 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T06:51:32.713Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="64neC_fquq9YPrYsqIrl" version="14.7.9" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T06:55:19.774Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="hAP1WM0gTgTxRiYUiioA" version="14.7.9" type="github">
   <diagram id="_8zVBFja__75I3Q5MEJ1" name="Page-1">
-    <mxGraphModel dx="202" dy="183" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="166" dy="150" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="w-fKDghc3GFNxupKGMqX-1" value="เริ่ม" style="ellipse;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
           <mxGeometry x="369" y="80" width="90" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="w-fKDghc3GFNxupKGMqX-2" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="w-fKDghc3GFNxupKGMqX-1">
+        <mxCell id="w-fKDghc3GFNxupKGMqX-2" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-fKDghc3GFNxupKGMqX-1" target="w-fKDghc3GFNxupKGMqX-3">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
             <mxPoint x="410" y="160" as="sourcePoint" />
             <mxPoint x="414" y="190" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-fKDghc3GFNxupKGMqX-3" value="มีพลังชีวิต 100&lt;br&gt;ปืนมึกระสุน 20 นัด" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
+          <mxGeometry x="346" y="248" width="134" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-fKDghc3GFNxupKGMqX-6" value="" style="endArrow=classic;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;shadow=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="w-fKDghc3GFNxupKGMqX-3" target="w-fKDghc3GFNxupKGMqX-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="430" y="410" as="sourcePoint" />
+            <mxPoint x="413" y="360" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="w-fKDghc3GFNxupKGMqX-9" value="ด่าน 1" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
+          <mxGeometry x="353" y="360" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="w-fKDghc3GFNxupKGMqX-10" value="" style="endArrow=classic;html=1;shadow=0;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="409" y="490" as="sourcePoint" />
+            <mxPoint x="459" y="440" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
