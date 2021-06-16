@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2021-06-16T14:12:51.086Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="7xqk8u2cO43Pk4CCmUTC" version="14.7.10" type="github">
+<mxfile host="app.diagrams.net" modified="2021-06-16T14:14:02.277Z" agent="5.0 (Macintosh; Intel Mac OS X 10_15_6) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/14.0.3 Safari/605.1.15" etag="bfQEwKcXxVvOEVflw4bR" version="14.7.10" type="github">
   <diagram id="_8zVBFja__75I3Q5MEJ1" name="Page-1">
-    <mxGraphModel dx="272" dy="246" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
+    <mxGraphModel dx="159" dy="144" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="1654" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -180,8 +180,8 @@
             <mxPoint x="1050" y="680" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BGIpg-9zXuHavuQ2vj5R-3" value="รอ 5 วินาที" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="990" y="680" width="120" height="60" as="geometry" />
+        <mxCell id="BGIpg-9zXuHavuQ2vj5R-3" value="รอ 3 วินาที" style="rounded=0;whiteSpace=wrap;html=1;fontFamily=Niramit;fontSource=https%3A%2F%2Ffonts.googleapis.com%2Fcss%3Ffamily%3DNiramit;" vertex="1" parent="1">
+          <mxGeometry x="990" y="680" width="120" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
